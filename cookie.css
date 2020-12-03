@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: lightgoldenrodyellow;
+}
+
+h1, h3 {
+    font-size: 3.2rem;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-weight: normal;
+    color: #b07e46;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.7);
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #694531;
+    text-shadow: none;
+
+}
+
+.container {
+    text-align: center;
+    border: 8px dotted #694531;;
+    /* border: 8px dotted #543727; */
+    padding: 25px;
+    height: 100%;
+    min-height: 60vh;
+    background-color: white;
+}
+
+.instruct {
+    font-size: .8rem;
+    font-weight: 300;
+}
+
+label {
+    font-weight: 300;
+}
+
+.showIpsum {
+    text-align: left;
+    text-indent: 1rem;
+    margin: 1.5rem;
+}
